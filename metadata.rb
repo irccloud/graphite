@@ -17,7 +17,7 @@ supports "fedora"
 
 depends  "python"
 depends  "apache2"
-depends  "runit", "~> 1.0"
+depends  "runit"
 depends  "memcached"
 
 suggests "systemd"
